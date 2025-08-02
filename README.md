@@ -5,11 +5,10 @@
 ---
 
 ### ⚔️ Tech Arsenal
-![Python](https://img.shields.io/badge/Python‑FFD43B?style=for‑the‑badge&logo=python&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL‑4479A1?style=for‑the‑badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau‑E97627?style=for‑the‑badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI‑F2C811?style=for‑the‑badge&logo=powerbi&logoColor=black)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
 ### 🔥 Current Missions
@@ -18,41 +17,40 @@
 🎓 Status: Final Year B.Tech Student  
 🧭 Goal: Become a Data Analyst / Scientist  
 
-> _“The only thing we’re allowed to do is believe. We can’t change anything unless we believe we can.”_  
-> — *Armin Arlert*
-
 ---
 
 ### 🌟 Featured Operations
 
-- 🧠 [**Next Word Predictor using LSTM**](https://github.com/sh-kartik18/Next-Word-Predictor) – Deep learning text predictor  
-- 📊 [**Sales & Customer Dashboard**](https://github.com/sh-kartik18/Sales-and-Customer-Dashboard) – Tableau-driven insights  
-- 🔐 [**Credit Card Fraud Detection**](https://github.com/sh-kartik18/Credit-Card-Fraud-Detection) – ML anomaly detection  
+- 🔤 [**Next Word Predictor using LSTM**](https://github.com/sh-kartik18/Next-Word-Predictor)  
+  `Built an LSTM-based model to predict the next word in a sequence. NLP + Deep Learning.`
+
+- 📊 [**Sales and Customer Dashboard**](https://github.com/sh-kartik18/Sales-and-Customer-Dashboard)  
+  `Interactive Tableau dashboards for customer behavior and YoY sales trend analysis.`
+
+- 🔍 [**Credit Card Fraud Detection**](https://github.com/sh-kartik18/Credit-Card-Fraud-Detection)  
+  `Binary classification on imbalanced data using supervised ML.`
+
 
 ---
 
 ### 📡 Recon Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn‑0A66C2?style=for‑the‑badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh-kartik/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode‑FFA116?style=for‑the‑badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kartikk_sh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh-kartik/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kartikk_sh/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kartikksh)
 
 ---
 
-### 📊 GitHub Status (Tokyo Night Theme)
+### 📊 GitHub Status 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-kartik18&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-kartik18&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sh-kartik18&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sh-kartik18&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-kartik18&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh-kartik18&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🧠 Final Words & Quote
-> _“If you win, you live. If you lose, you die. If you don’t fight, you can’t win.”_ — *Eren Yeager*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2tSodgDfwCjIM/giphy.gif" width="300"/>
-</p>
-
-*A dashboard a day keeps blind decisions away. Dedicate your heart... to data.*
 
