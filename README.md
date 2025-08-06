@@ -1,5 +1,4 @@
 <h1 align="center">🛡️ Hey there, I'm Kartik Sharma</h1>
-<p align="center"><strong>"Dedicate your heart... to insights."</strong></p>
 <p align="center"><em>Solving real-world problems using data, dashboards, and code.</em></p>
 
 ---
@@ -13,7 +12,7 @@
 
 ### 🔥 Current Missions
 🧠 Learning: Machine Learning  
-📊 Building: Anime List Dashboard  
+📊 Building: Spotify Dashboard  
 🎓 Status: Final Year B.Tech Student  
 🧭 Goal: Become a Data Analyst / Scientist  
 
