@@ -42,13 +42,9 @@
 ### 📊 GitHub Status 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-kartik18&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-kartik18&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sh-kartik18&theme=tokyo-night" />
-</p>
 
 ---
 
