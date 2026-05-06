@@ -12,7 +12,7 @@
 
 ### 🔥 Current Missions
 🧠 Learning: Machine Learning  
-📊 Building: Spotify Dashboard  
+📊 Building: A Medical Chatbot that links patients to specialists  
 🎓 Status: Final Year B.Tech Student  
 🧭 Goal: Become a Data Analyst / Scientist  
 
